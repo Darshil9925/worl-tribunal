@@ -1,0 +1,15 @@
+{
+  "name": "worl-tribunal",
+  "version": "1.0.0",
+  "description": "The W or L Tribunal — No cap, no mercy",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "devDependencies": {
+    "vercel": "^37.0.0"
+  }
+}
